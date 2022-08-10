@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.0.7
+
+### Patch Changes
+
+- [#6457](https://github.com/chakra-ui/chakra-ui/pull/6457)
+  [`04ff824ac`](https://github.com/chakra-ui/chakra-ui/commit/04ff824ac2f69aaa82d08bf2905ad4667327db12)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Deprecate
+  use-dimensions in favor of the use-size hook
+
 ## 2.0.6
 
 ### Patch Changes
