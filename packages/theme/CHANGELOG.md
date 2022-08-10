@@ -1,5 +1,18 @@
 # Change Log
 
+## 2.1.6
+
+### Patch Changes
+
+- [#6346](https://github.com/chakra-ui/chakra-ui/pull/6346)
+  [`2fd5d07eb`](https://github.com/chakra-ui/chakra-ui/commit/2fd5d07eb95e37a8b46257beefc462c97941cb23)
+  Thanks [@quantumomid](https://github.com/quantumomid)! - Improve contrast of
+  FormHelperText to satisfy accessibility check
+
+- Updated dependencies
+  [[`c14010b45`](https://github.com/chakra-ui/chakra-ui/commit/c14010b45e9f472ef85b0c2d9d3aaf9f2e78299c)]:
+  - @chakra-ui/theme-tools@2.0.8
+
 ## 2.1.5
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.1.5
+
+### Patch Changes
+
+- Updated dependencies
+  [[`04ff824ac`](https://github.com/chakra-ui/chakra-ui/commit/04ff824ac2f69aaa82d08bf2905ad4667327db12)]:
+  - @chakra-ui/hooks@2.0.7
+  - @chakra-ui/portal@2.0.7
+  - @chakra-ui/transition@2.0.6
+  - @chakra-ui/close-button@2.0.6
+
 ## 2.1.4
 
 ### Patch Changes
